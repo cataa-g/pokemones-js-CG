@@ -45,4 +45,4 @@ for (let i = 0; i < pokemones.length; i++) {
   );
 }
 //Mostrar datos cargados en array en formato mas amigable
-// console.log("Nombre: " + pokemon.nombre + ", Nivel: " + pokemon.nivel);
+console.log("Nombre: " + pokemon.nombre + ", Nivel: " + pokemon.nivel);
